@@ -1,5 +1,5 @@
 # DIO_Desafio_Medusa
-Este desafio teve o ituito de demonstrar o aprendizado sobre a ferramenta "MEDUSA", umas das ferramentas presentes no Kali Linux.
+Este desafio teve o intuito de demonstrar o aprendizado sobre a ferramenta "MEDUSA", umas das ferramentas presentes no Kali Linux.
 Repositório relacionado ao desafio do curso da DIO sobre Cybersecurity.
 
 ## Preparação do ambiente de laboratório:
