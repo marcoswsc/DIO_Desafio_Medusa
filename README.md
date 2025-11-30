@@ -5,7 +5,7 @@ Repositório relacionado ao desafio do curso da DIO sobre Cybersecurity.
 ## Preparação do ambiente de laboratório:
   * Utilização do VirtualBox para virtualizar as máquinas;
   * Utilização do Kali Linux, como máquina atacante;
-  * Utilização do Metasploitable2, como máquina alvo. O Metasploitable2 é uma máquina propositalmente vulnerável muito utilizada em estudos de técnicas em cibersegurança.
+  * Utilização do Metasploitable2, como máquina alvo. O Metasploitable2 é uma máquina propositalmente vulnerável muito utilizada em estudos de técnicas em cibersegurança.  
 OBS: Ao utilizar o Metasploitable2, utilize-a no virtualBox no mode de rede "Host-Only", para que a máquina não tenha contato com a rede do host.   
 
 ## Conhecendo a MEDUSA:
