@@ -6,6 +6,7 @@ Repositório relacionado ao desafio do curso da DIO sobre Cybersecurity.
   * Utilização do VirtualBox para virtualizar as máquinas;
   * Utilização do Kali Linux, como máquina atacante;
   * Utilização do Metasploitable2, como máquina alvo. O Metasploitable2 é uma máquina propositalmente vulnerável muito utilizada em estudos de técnicas em cibersegurança.
+OBS: Ao utilizar o Metasploitable2, utilize-a no virtualBox no mode de rede "Host-Only", para que a máquina não tenha contato com a rede do host.   
 
 ## Conhecendo a MEDUSA:
 A MEDUSA é uma ferramenta de linha de comando presente na distribuição Kali Linux, muito utilizada em ataques de força bruta, desenvolvida para tentar descobrir credenciais com ponto de vulnerabilidade, ou seja, credenciais não fortes e não elaboradas.  
